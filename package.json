@@ -1,0 +1,15 @@
+{
+  "name": "sample.bot.node.app",
+  "version": "1.0.0",
+  "description": "Application playgorund created for learning microsoft bot framework",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Waldemar Bira",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.2.3",
+    "restify": "^4.1.1"
+  }
+}
